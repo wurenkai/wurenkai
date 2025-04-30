@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renkai Wu</h1>
-<h3 align="center">An enthusiastic medical AI researcher from China.</h3>
+<h3 align="center"></h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wurenkai&show_icons=true&theme=transparent&hide=prs,issues,contribs)
 
